@@ -1,12 +1,35 @@
-#Hi, I' am Pujitha Perumalla
+# About Me
+# Hi, I' am Pujitha Perumalla,🎓 Computer Science Student passionate about technology and innovation.
+💻 I enjoy building projects with Python, Artificial Intelligence, Machine Learning, and Web Development.
 
-🎓 Computer Science Student
-💻 Passionate about Python, AI, Machine Learning, and Web Development
-🚀 Building projects that solve real-world problems
-🌱 Currently learning Agentic AI, NLP, and UI/UX Design
-📚 Always exploring new technologies and improving my coding skills
+🚀 Currently exploring:
+- Artificial Intelligence(Agentic AI)
+- Natural Language Processing (NLP)
+- Machine Learning
+- Deep Learning
+- Data Science
 
-📫 Let's connect and collaborate on exciting projects!
+🌱 What I'm doing:
+- Building real-world AI applications
+- Learning new technologies every day
+- Contributing to personal and academic projects
+- Improving problem-solving and development skills
+
+📌 Interests:
+- Artificial Intelligence
+- Data Analytics
+- Software Development
+- Open Source Learning
+- User Experience Design
+
+🏆 Certifications:
+- TCS iON Career Edge, Interview Skills and Group Discussion
+- Data Mining completion on NPTEL
+- Kaggle Learning Achievements
+- TechGIG python certification
+
+✨ Motto:
+"Every expert was once a beginner. Keep learning, keep building."
 
 
 ## 🌐 Socials:
