@@ -1,5 +1,5 @@
 # About Me
-# Hi, I' am Pujitha Perumalla,🎓 Computer Science Student passionate about technology and innovation.
+Hi, I' am Pujitha Perumalla,🎓 Computer Science Student passionate about technology and innovation.
 💻 I enjoy building projects with Python, Artificial Intelligence, Machine Learning, and Web Development.
 
 🚀 Currently exploring:
