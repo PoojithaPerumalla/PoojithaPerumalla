@@ -1,3 +1,14 @@
+#Hi, I' am Pujitha Perumalla
+
+🎓 Computer Science Student
+💻 Passionate about Python, AI, Machine Learning, and Web Development
+🚀 Building projects that solve real-world problems
+🌱 Currently learning Agentic AI, NLP, and UI/UX Design
+📚 Always exploring new technologies and improving my coding skills
+
+📫 Let's connect and collaborate on exciting projects!
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pooji_naidu49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pujitha perumalla) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Perumalla Pujitha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojithaperumalla@gmail.com) 
 
